@@ -24,13 +24,18 @@
 2. Upload the 'best.pt' from this repository onto your Google colab workspace and use it as weight for detection by changing the path in the code.
 3. Once the detection is done, we can download the output video along with the labels folder from runs folder in Yolov7 directory from Google Colab Workspace. 
 
-### *Instructions to follow on Local Machine for Area Estimation and Depth Estimation of Potholes from Images:*
+### *Using Local Machine for Area Estimation and Depth Estimation of Potholes from Images:*
 
 Packages to be installed:
 
 1. OpenCV
 2. Numpy
 
+**a)** 'pothole_extration.py' - for extracting region of pothole from frames obtained post-detection.
+
+**b)** 'bird_new.py' - for applying perspective transformation (warp perspective) to all the pothole regions and saving the top views of potholes in a new folder.
+
+**c)** 'postwarp.py' - for *area estimation and CSV creation*.
 
 
 
