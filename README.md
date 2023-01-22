@@ -13,10 +13,28 @@
 
 ![Flow Chart](https://i.postimg.cc/mDDR0zQY/Microsoft-Teams-image.png) 
 
+## Instructions to use the model:
 
-## Instructions to run on Google Colab: 
+> We will be running the Pothole Detection code that employs the Yolov7 model for detection on *Google Colab*. Upon obtaining the video or image result, the same can be downloaded and the further image processing can be performed on local machine using the instructions provided below. 
+> Although, you are free to continue on Google colab for the Area estimation and Depth estimation for which you will have to follow the package installation procedures and other changes accordingly.
+
+### *Instructions to run Pothole Detection Code on Google Colab:* 
+
+1. Open the '.ipynb' in google colab, change path for the input video either by mounting your Google drive which has the video or upon directly uploading the test video to the Google colab workspace. Incase you do not want to mount Google drive you can skip that line of code in the '.ipynb' notebook. 
+2. Upload the 'best.pt' from this repository onto your Google colab workspace and use it as weight for detection by changing the path in the code.
+3. Once the detection is done, we can download the output video along with the labels folder from runs folder in Yolov7 directory from Google Colab Workspace. 
+
+### *Instructions to follow on Local Machine for Area Estimation and Depth Estimation of Potholes from Images:*
+
+Packages to be installed:
+
+1. OpenCV
+2. Numpy
 
 
 
-## Instructions to run on Local Machine:
+
+
+
+
 
