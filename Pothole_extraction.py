@@ -4,19 +4,19 @@ import numpy as np
 import math
 
 # Scene1
-path_of_predicted_video = r"C:\Users\Kranthi Kiran\Desktop\Smartathon-Theme2-Submission\Scene1\Scene1-Predicted.mov"
-# path_of_original_video = r'C:\Users\Kranthi Kiran\Desktop\Pothole\input.mp4'
-path_of_labels = r"C:\Users\Kranthi Kiran\Desktop\Smartathon-Theme2-Submission\Scene1\labels\\"
-path_of_images = r"C:\Users\Kranthi Kiran\Desktop\Smartathon-Theme2-Submission\Scene1\Scene1Frames"
-path_of_extraction = r"C:\Users\Kranthi Kiran\Desktop\Smartathon-Theme2-Submission\Scene1\Scene1ExtractedFrames"
+path_of_predicted_video = r"Path to video (Potholes Detected) - Scene1-Predicted.mov"
+# path_of_original_video = r'Path to original video (potholes undetected) input.mp4'
+path_of_labels = r"Path to labels (Scene 1)"
+path_of_images = r"Path to scene 1 frames"
+path_of_extraction = r"Path to scene 1 extracted frames (pothole region extracted)"
 
 
 # Scene2
-# path_of_predicted_video = r"C:\Users\Kranthi Kiran\Desktop\Smartathon-Theme2-Submission\Scene_2\input.mp4"
-# path_of_original_video = r'C:\Users\Kranthi Kiran\Desktop\Pothole\input.mp4'
-# path_of_labels = r"C:\Users\Kranthi Kiran\Desktop\Smartathon-Theme2-Submission\Scene_2\labels\\"
-# path_of_images = r"C:\Users\Kranthi Kiran\Desktop\Smartathon-Theme2-Submission\Scene_2\Frames"
-# path_of_extraction = r"C:\Users\Kranthi Kiran\Desktop\Smartathon-Theme2-Submission\Scene_2\Scene2-Extracted-Potholes"
+# path_of_predicted_video = r"Path to video (Potholes Detected) - Scene1-Predicted.mov"
+# path_of_original_video = r'Path to original video (potholes undetected) input.mp4'
+# path_of_labels = r"Path to labels (Scene 2)"
+# path_of_images = r"Path to scene 2 frames"
+# path_of_extraction = r"Path to scene 2 extracted frames (pothole region extracted)"
 
 
 # returns list of frame labels
