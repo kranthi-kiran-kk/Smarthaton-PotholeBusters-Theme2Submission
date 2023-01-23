@@ -1,7 +1,7 @@
 # Pothole Detection and Severity Classification using Computer Vision 
 
 
-## The model can perform the following tasks: 
+## The model can perform the following tasks: 🔍🛠️🚧
 
 **a)** Detect potholes from Video and Image input with bounding boxes using the custom trained Yolov7 Object detection model. 
 
@@ -11,9 +11,9 @@
 
 **d)** Use midas model (Robust Monocular Depth Estimation) for depth estimation of potholes. The value returned corresponds to the mean depth intensity which correlates to the Severity of the pothole in the image. 
 
-![Flow Chart](https://i.postimg.cc/mDDR0zQY/Microsoft-Teams-image.png) 
+[![Flowchart-removebg-preview.png](https://i.postimg.cc/QdBqsCn7/Flowchart-removebg-preview.png)](https://postimg.cc/ZWSNxbmY)
 
-## Instructions to use the model:
+## Instructions to use the model: 🔍🛠️🚧
 
 > We will be running the Pothole Detection code that employs the Yolov7 model for detection on *Google Colab*. Upon obtaining the video or image result, the same can be downloaded and the further image processing can be performed on local machine using the instructions provided below. 
 > Although, you are free to continue on Google colab for the Area estimation and Depth estimation for which you will have to follow the package installation procedures and other changes accordingly.
