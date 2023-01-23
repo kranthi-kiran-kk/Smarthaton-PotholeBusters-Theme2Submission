@@ -21,7 +21,7 @@
 
 ### *Instructions to run Pothole Detection Code on Google Colab:* 
 
-1. Open the '.ipynb' in google colab, change path for the input video either by mounting your Google drive which has the video or upon directly uploading the test video to the Google colab workspace. Incase you do not want to mount Google drive you can skip that line of code in the '.ipynb' notebook. 
+1. Open the '.ipynb' notebook provided here in google colab, change path for the input video either by mounting your Google drive which has the video or upon directly uploading the test video to the Google colab workspace. Incase you do not want to mount Google drive you can skip that line of code in the '.ipynb' notebook. 
 2. Upload the 'best.pt' from this repository onto your Google colab workspace and use it as weight for detection by changing the path in the code.
 3. Once the detection is done, we can download the output video along with the labels folder from runs folder in Yolov7 directory from Google Colab Workspace. 
 
