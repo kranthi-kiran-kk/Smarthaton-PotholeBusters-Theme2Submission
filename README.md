@@ -45,7 +45,7 @@ Packages to be installed:
 
 ### *Scene 2 pothole detection video* - https://www.youtube.com/watch?v=ywfsOBa1Ms0
 
-### *Youtube Video (Model Demo)* - https://youtu.be/MO6h2W1zYjM
+### *Model briefing and demo video* - https://youtu.be/MO6h2W1zYjM
 
 
 ## Results: 🔍🛠️🚧
