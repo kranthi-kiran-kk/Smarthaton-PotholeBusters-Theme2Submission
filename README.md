@@ -13,9 +13,9 @@
 
 [![Flowchart-removebg-preview.png](https://i.postimg.cc/QdBqsCn7/Flowchart-removebg-preview.png)](https://postimg.cc/ZWSNxbmY) 
 
-> To use the model there is no requirement for high-end hardware and GPU. The usage of pre-trained models enables users to run the code on a decent CPU with ease.
-
 ## Instructions to use the model: 🔍🛠️🚧
+
+> To use the model there is no requirement for high-end hardware and GPU. The usage of pre-trained models in the code enables users to run the code on a decent CPU with ease.
 
 > We will be running the Pothole Detection code that employs the Yolov7 model for detection on *Google Colab*. Upon obtaining the video or image result, the same can be downloaded and the further image processing can be performed on local machine using the instructions provided below. 
 > Although, you are free to continue on Google colab for the Area estimation and Depth estimation for which you will have to follow the package installation procedures and other changes accordingly.
