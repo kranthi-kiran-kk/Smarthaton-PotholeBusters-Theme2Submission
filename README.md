@@ -13,6 +13,7 @@
 
 [![Flowchart-removebg-preview.png](https://i.postimg.cc/QdBqsCn7/Flowchart-removebg-preview.png)](https://postimg.cc/ZWSNxbmY) 
 
+> To use the model there is no requirement for high-end hardware and GPU. The usage of pre-trained models enables users to run the code on a decent CPU with ease.
 
 ## Instructions to use the model: 🔍🛠️🚧
 
