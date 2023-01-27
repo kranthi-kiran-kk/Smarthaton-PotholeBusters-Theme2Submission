@@ -70,6 +70,12 @@ Packages to be installed:
 
 [![image.png](https://i.postimg.cc/WpXQh80g/image.png)](https://postimg.cc/0rKt4pWy)
 
+### CSV with Depth result:
+
+> Depth is calculated as mean of depth intensity value obtained.
+
+[![Screenshot-2023-01-27-110415.png](https://i.postimg.cc/4Nj72LRD/Screenshot-2023-01-27-110415.png)](https://postimg.cc/ppYLpBTC)
+
 
 
 
