@@ -74,7 +74,7 @@ Packages to be installed:
 
 > Depth is calculated as mean of depth intensity value obtained.
 
-[![Screenshot-2023-01-27-110415.png](https://i.postimg.cc/4Nj72LRD/Screenshot-2023-01-27-110415.png)](https://postimg.cc/ppYLpBTC)
+[![image.png](https://i.postimg.cc/15F5Xybd/image.png)](https://postimg.cc/jLsrkYx6)
 
 
 
